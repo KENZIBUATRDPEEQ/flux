@@ -2,7 +2,7 @@ RED="\e[31m"
 GREEN="\e[32m"
 ENDCOLOR="\e[0m"
 
-echo -e "${GREEN}Updating proxy...${ENDCOLOR}"
+echo -e "${GREEN}Updating ken proxy...${ENDCOLOR}"
 clear
 sleep 1
 if [ -f "flux" ]; then
